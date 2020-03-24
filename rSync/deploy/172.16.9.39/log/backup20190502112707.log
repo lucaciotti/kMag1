@@ -1,0 +1,8 @@
+sending incremental file list
+models/PLUtils.php
+src/plMake/
+src/plMake/02_resp.php
+src/plMake/error.php
+
+sent 2,901 bytes  received 176 bytes  473.38 bytes/sec
+total size is 65,215  speedup is 21.19

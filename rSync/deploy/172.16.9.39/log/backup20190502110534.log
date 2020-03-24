@@ -1,0 +1,27 @@
+sending incremental file list
+./
+exclude.txt
+rSync/deploy/172.16.9.39/log/
+rSync/deploy/172.16.9.39/log/backup20190502110350.log
+rSync/deploy/172.16.9.39/log/backup20190502110534.log
+wip/
+wip/Thumbs.db
+wip/UnderCostruction.html
+wip/favicon.ico
+wip/images/
+wip/images/b_home.png
+wip/images/bg.png
+wip/images/divider.png
+wip/images/social.png
+wip/js/
+wip/js/Copse_400.font.js
+wip/js/Gabriola_400.font.js
+wip/js/cufon-yui.js
+wip/js/jquery.js
+wip/tools/
+wip/tools/960.css
+wip/tools/sifr.css
+wip/tools/style.css
+
+sent 433,825 bytes  received 447 bytes  66,811.08 bytes/sec
+total size is 6,395,272  speedup is 14.73

@@ -1,0 +1,5 @@
+assets/images/
+assets/other/
+wip/
+rSync/
+esp/

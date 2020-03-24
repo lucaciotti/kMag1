@@ -1,0 +1,9 @@
+sending incremental file list
+assets/js/arcaJS/artLib.js
+assets/js/arcaJS/plLib.js
+src/ajaxUtils/
+src/ajaxUtils/codeArtGet.php
+src/plMake/02_resp.php
+
+sent 9,911 bytes  received 231 bytes  1,560.31 bytes/sec
+total size is 392,107  speedup is 38.66

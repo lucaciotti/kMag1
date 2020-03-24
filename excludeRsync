@@ -1,0 +1,12 @@
+.git/
+_dev-tools/
+config/
+config_fr/
+config_es/
+config_it/
+assets/images/
+assets/other/
+wip/
+rSync/
+node_modules/
+.gitignore

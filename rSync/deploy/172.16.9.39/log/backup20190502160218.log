@@ -1,0 +1,8 @@
+sending incremental file list
+models/Article.php
+src/ajaxUtils/
+src/ajaxUtils/LottiGet.php
+src/plMake/02_resp.php
+
+sent 6,411 bytes  received 188 bytes  1,466.44 bytes/sec
+total size is 393,995  speedup is 59.71
